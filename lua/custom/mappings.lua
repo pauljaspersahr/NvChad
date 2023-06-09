@@ -13,6 +13,7 @@ M.general = {
     ["<leader>tx"] = { ":tabclose<CR>", "close current tab" },
     ["<leader>tn"] = { ":tabn<CR>", "go to next tab" },
     ["<leader>tp"] = { ":tabp<CR>", "go to previous tab" },
+		["gh"] = {":ClangdSwitchSourceHeader<CR>", "switch between source and header"},
   },
 }
 
