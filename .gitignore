@@ -1,5 +1,5 @@
 plugin
-# custom
+*/chadrc.lua
 spell
 ftplugin
 coc-settings.json
